@@ -25,5 +25,7 @@ time.sleep(2)
 
 print("SUCCESSFULLY ADDED AND DELETED ELEMENTS")
 
+#edit from github
+
 #you can also import random module to add random number of elements
 #then delete all of them using while loop
