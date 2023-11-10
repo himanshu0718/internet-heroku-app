@@ -28,5 +28,5 @@ print("SUCCESSFULLY ADDED AND DELETED ELEMENTS")
 #you can also import random module to add random number of elements
 #then delete all of them using while loop
 
-
+#1st pull
 #1st push
