@@ -27,5 +27,3 @@ print("SUCCESSFULLY ADDED AND DELETED ELEMENTS")
 
 #you can also import random module to add random number of elements
 #then delete all of them using while loop
-
-#push to github
