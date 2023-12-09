@@ -1,0 +1,6 @@
+1. A/B Testing
+4. Broken Images
+5. Challenging DOM
+12. Dynamic Content
+
+Total features - 44

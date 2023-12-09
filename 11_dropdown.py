@@ -24,7 +24,7 @@ driver.find_element(By.XPATH,"//select[@id='dropdown']").click()
 time.sleep(1)
 
 driver.find_element(By.XPATH,"//select[@id='dropdown']").click()
-time.sleep(1)
+time.sleep(1)   
 
 Select(driver.find_element(By.XPATH,"//select[@id='dropdown']")).select_by_value("2")
 time.sleep(1)

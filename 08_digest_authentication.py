@@ -15,7 +15,7 @@ driver.get("http://admin:admin@the-internet.herokuapp.com/digest_auth")
 time.sleep(3)
 if driver.find_element(By.XPATH,"//p[contains(text(),'Congratulations! You must have the proper credenti')]"):
     print("AUTHENTICATION SUCCESSFUL")
-else:
+else: 
     print("Failed")
 
 
