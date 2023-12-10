@@ -3,4 +3,6 @@
 5. Challenging DOM
 12. Dynamic Content
 
+41. Sortable data tables
+
 Total features - 44
