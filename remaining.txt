@@ -1,8 +1,17 @@
+Not Understood / Pending
 1. A/B Testing
 4. Broken Images
 5. Challenging DOM
 12. Dynamic Content
+16. Exit Intent
+19. floating menu
+
 
 41. Sortable data tables
+
+
+#repeatable
+17. file download
+
 
 Total features - 44
