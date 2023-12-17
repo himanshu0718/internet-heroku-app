@@ -1,9 +1,12 @@
-import time
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.service import Service as ChromeService
-driver = webdriver.Chrome(service=ChromeService(executable_path=ChromeDriverManager().install()))
+from selenium.webdriver.chrome.service import Service 
+service = Service(executable_path="chromedriver.exe")
+driver = webdriver.Chrome(service=service)
+
+import time
 from selenium.webdriver.common.by import By
+
+
 driver.get("https://the-internet.herokuapp.com/")
 driver.maximize_window()
 time.sleep(1)
