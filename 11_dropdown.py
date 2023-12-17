@@ -5,6 +5,8 @@ driver = webdriver.Chrome(service=service)
 
 import time
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import Select
+
 
 
 driver.get("https://the-internet.herokuapp.com/")
