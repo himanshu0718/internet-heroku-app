@@ -6,8 +6,8 @@ Not Understood / Pending
 16. Exit Intent
 19. floating menu
 30. javascript_error
-
-
+39. shifting Content
+40. Slow resources
 41. Sortable data tables
 
 
